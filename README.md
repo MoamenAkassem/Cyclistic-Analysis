@@ -71,7 +71,7 @@ Dashboard xlsx – Dashboard
 
 🔗 Links
 
-Kaggle Dataset & Notebook: [My profile]
+Kaggle Dataset & Notebook: [[My profile](https://www.kaggle.com/momenadelk)]
 
 🙋 About Me
 
